@@ -1,0 +1,136 @@
+.cont_table{
+    margin-top : 200px;
+}
+
+.table{
+        margin-left: auto;
+        margin-right: auto;
+        border:2px solid;
+        border-color: black;
+        background-color: white;
+        width:auto;
+        height: auto;
+        margin-left: 400px;
+
+}
+
+.body{
+    background-color: white;
+}
+.cont_div{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:4%;
+    width:100%;
+    border: 1px black solid;
+}
+.cont_div_cat{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10%;
+}
+.h2{
+
+    margin-top:1px;
+    margin-left: 450px;
+}
+.titre_cat{
+    margin-top:1%;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    color : #0DB1B9;
+    
+}
+
+.message{
+    width:20px;
+}
+
+#show{
+      background-image: url("/images/show.jpg");
+    opacity:0.4;
+    filter:alpha(opacity=40); /* For IE8 and earlier */
+}
+.bg-img {
+    /* The image used */
+    background-image: url("/images/show.jpg");
+  
+    /* Control the height of the image */
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  /* Add styles to the form container */
+  .container {
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+  }
+  
+    #bodyF{
+        color: #000;
+        overflow-x: hidden;
+        height: 100%;
+        background-image: url("/images/show.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%
+    
+  }
+
+
+  .table_show{
+      color :white;
+      border : 2px solid black;
+  }
+
+  #categorie{
+      margin-left : 10%;
+      
+  }
+  #fourni{
+    margin-left : 10%;
+  }
+  #btn-color{
+      background-color:#0DB1B9;
+  }
+  #table{
+      width:900px;
+  }
+  .titre-cmd{
+    color:#0DB1B9;
+
+}
+#btn{
+    background-color:#0DB1B9;
+    color:white;
+}
+.back-fourni{
+    background-color:white;
+}
+#table-client{
+    margin-left:40px;
+    margin-top:20px;
+}
+.titre-client{
+    color:#0DB1B9;
+    margin-left:150px;
+}
+body{
+    background-color:white;
+}
+.title{
+    color:#0DB1B9;
+}
+#btn-client{
+    margin-left:100px;
+    background-color:#0DB1B9;
+    color:white;
+}
